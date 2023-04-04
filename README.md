@@ -9,19 +9,25 @@
 
 
 
+#### Day3 2023-04-04 周二
+
+复习Rust，完成《Programming Rust》ch3，看到指针
+
+3 Fundamental Types
+Fixed-Width Numeric Types
+    Integer Types
+    Checked, Wrapping, Saturating, and Overflowing Arithmetic
+Floating-Point Types
+The bool Type
+Characters
+Tuples
+Pointer Types
+    References
+    Boxes
+    Raw Pointers
 
 
-
-
-
-
-
-
-
-
-
-
-#### Day2 2023-04-03 周二
+#### Day2 2023-04-03 周一
 
 复习Rust，完成《Programming Rust》ch2，开始看ch3
 
@@ -39,7 +45,7 @@ Filesystems and Command-Line Tools
     Reading and Writing Files
     Find and Replace
 
-#### Day1 2023-04-02 周一
+#### Day1 2023-04-02 周日
 
 [MeouSker77/ProgrammingRust: 本书为《Programming Rust - Fast, Safe Systems Development》第2版的个人中文翻译，仅供学习和交流使用，如有侵权请联系作者删除 (github.com)](https://github.com/MeouSker77/ProgrammingRust)
 
@@ -54,13 +60,13 @@ OâReilly Online Learning
 How to Contact Us
 Acknowledgments
 
-1. Systems Programmers Can Have Nice Things
+1 Systems Programmers Can Have Nice Things
 Rust Shoulders the Load for You
 Parallel Programming Is Tamed
 And Yet Rust Is Still Fast
 Rust Makes Collaboration Easier
 
-2. A Tour of Rust
+2 A Tour of Rust
 rustup and Cargo
 Rust Functions
 Writing and Running Unit Tests
