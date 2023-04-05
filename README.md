@@ -6,8 +6,56 @@
 
 先把rust的基础打得再扎实一点。每天2小时。
 
+#### Day4 2023-04-05 周三 清明节
 
+复习Rust，完成《Programming Rust》[ch03](https://github.com/MeouSker77/ProgrammingRust/blob/main/md/ch03.md)、[ch04](https://github.com/MeouSker77/ProgrammingRust/blob/main/md/ch04.md)、[ch05](https://github.com/MeouSker77/ProgrammingRust/blob/main/md/ch05.md)
 
+结合[生命周期确保引用有效 - Rust 程序设计语言](https://kaisery.github.io/trpl-zh-cn/ch10-03-lifetime-syntax.html)，这次真的理解了生命周期参数还有reference到底是怎么一回事。
+
+3 Fundamental Types
+Arrays, Vectors, and Slices
+    Arrays
+    Vectors
+    Slices
+String Types
+    String Literals
+    Byte Strings
+    Strings in Memory
+    String
+    Using Strings
+    Other String-Like Types
+Type Aliases
+Beyond the Basics
+
+4 Ownership and Moves
+Ownership
+Moves
+    More Operations That Move
+    Moves and Control Flow
+    Moves and Indexed Content
+Copy Types: The Exception to Moves
+Rc and Arc: Shared Ownership
+
+5 References
+References to Values
+Working with References
+    Rust References Versus C++ References
+    Assigning References
+    References to References
+    Comparing References
+    References Are Never Null
+    Borrowing References to Arbitrary Expressions
+    References to Slices and Trait Objects
+Reference Safety
+    Borrowing a Local Variable
+    Receiving References as Function Arguments
+    Passing References to Functions
+    Returning References
+    Structs Containing References
+    Distinct Lifetime Parameters
+    Omitting Lifetime Parameters
+Sharing Versus Mutation
+Taking Arms Against a Sea of Objects
 
 #### Day3 2023-04-04 周二
 
@@ -25,7 +73,6 @@ Pointer Types
     References
     Boxes
     Raw Pointers
-
 
 #### Day2 2023-04-03 周一
 
