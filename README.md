@@ -6,6 +6,78 @@
 
 先把rust的基础打得再扎实一点。每天2小时。
 
+#### Day7 2023-04-08 周六
+
+6 Expressions
+    Assignment
+    Type Casts
+    Closures
+    Onward
+7 Error Handling
+Panic
+    Unwinding
+    Aborting
+Result
+    Catching Errors
+    Result Type Aliases
+    Printing Errors
+    Propagating Errors
+    Working with Multiple Error Types
+    Dealing with Errors That âCanât Happenâ
+    Ignoring Errors
+    Handling Errors in main()
+    Declaring a Custom Error Type
+    Why Results?
+8 Crates and Modules
+Crates
+    Editions
+    Build Profiles
+Modules
+    Nested Modules
+    Modules in Separate Files
+    Paths and Imports
+    The Standard Prelude
+    Making use Declarations pub
+    Making Struct Fields pub
+    Statics and Constants
+Turning a Program into a Library
+The src/bin Directory
+Attributes
+Tests and Documentation
+    Integration Tests
+    Documentation
+    Doc-Tests
+Specifying Dependencies
+    Versions
+    Cargo.lock
+Publishing Crates to crates.io
+Workspaces
+More Nice Things
+
+#### Day6 2023-04-07 周五
+
+《Programming Rust》ch06
+
+6 Expressions
+    An Expression Language
+    Precedence and Associativity
+    Blocks and Semicolons
+    Declarations
+    if and match
+    if let
+    Loops
+    Control Flow in Loops
+    return Expressions
+    Why Rust Has loop
+    Function and Method Calls
+    Fields and Elements
+    Reference Operators
+    Arithmetic, Bitwise, Comparison, and Logical Operators
+
+#### Day5 2023-04-06 周四
+
+未学
+
 #### Day4 2023-04-05 周三 清明节
 
 复习Rust，完成《Programming Rust》[ch03](https://github.com/MeouSker77/ProgrammingRust/blob/main/md/ch03.md)、[ch04](https://github.com/MeouSker77/ProgrammingRust/blob/main/md/ch04.md)、[ch05](https://github.com/MeouSker77/ProgrammingRust/blob/main/md/ch05.md)
