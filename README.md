@@ -1,10 +1,11 @@
-### 第一周计划
 
-上一次做到stripe调度，后面的就没做了，这次提升了debug能力之后，回来重做。
+### 第三周周末计划
 
-总结上一次的教训，暴发式的学习不可取，应该日积月累，每天投入固定的时间学习。
+完成rustlings，推进rcore至上一次做到的进度。
 
-先把rust的基础打得再扎实一点。每天2小时。
+#### Day19 2023-04-20 周四
+
+第19天完成《Programming Rust》所有章节。超前计划4天完成。大概投入时间在45小时左右。
 
 #### Day7 2023-04-08 周六
 
@@ -191,3 +192,11 @@ Rust Functions
 Writing and Running Unit Tests
 Handling Command-Line Arguments
 Serving Pages to the Web
+
+### 第一周计划
+
+上一次做到stripe调度，后面的就没做了，这次提升了debug能力之后，回来重做。
+
+总结上一次的教训，暴发式的学习不可取，应该日积月累，每天投入固定的时间学习。
+
+先把rust的基础打得再扎实一点。每天2小时。
